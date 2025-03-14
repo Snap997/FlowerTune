@@ -54,7 +54,7 @@ train.training-arguments.gradient-checkpointing = true
 train.training-arguments.lr-scheduler-type = "linear"
 strategy.fraction-fit = 0.1
 strategy.fraction-evaluate = 0.0
-num-server-rounds = 30
+num-server-rounds = 15
 strategy.proximal_mu = 0.05
 
 [tool.flwr.app.config.static]
