@@ -26,7 +26,7 @@ Below are the accuracy scores obtained in the evaluation of my federated fine-tu
   - Per-device train batch size: `4`
   - Federated aggregation algorithm: **FedProx** (`μ` = 0.05)
   - Total federated training rounds: `15`
-- **Communication Budget**: `2045.79 MB`
+- **Communication Budget**: `2116.00 MB`
 
 ## Training Progress
 
