@@ -34,7 +34,7 @@ Below are the accuracy scores obtained in the evaluation of my federated fine-tu
 
 The structure of this repository is organized as follows:
 
-- [`peftgeneral_nlp/peft_model`](peftgeneral_nlp/peft_model)  
+- [`general_nlp/peft_model`](general_nlp/peft_model)  
   Directory containing the federated fine-tuned model weights obtained using PEFT (Parameter-Efficient Fine-Tuning) techniques.
 
 - [`general_nlp/training`](general_nlp/training)  
